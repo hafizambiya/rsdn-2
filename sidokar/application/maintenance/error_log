@@ -1,0 +1,26 @@
+[04-Dec-2023 19:08:55 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/dhax8725/public_html/SIDOKAR/sidokar/application/maintenance/maintenance_upgrade.php on line 0
+[04-Dec-2023 19:08:55 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/header.php on line 0
+[04-Dec-2023 19:08:55 Asia/Jakarta] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/header.php on line 0
+[04-Dec-2023 19:08:55 Asia/Jakarta] PHP Notice:  Undefined variable: public in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/left-sidebar.php on line 0
+[04-Dec-2023 19:08:55 Asia/Jakarta] PHP Notice:  Undefined variable: menu in /home/dhax8725/public_html/SIDOKAR/sidokar/lib/inc/common_functions.php on line 0
+[04-Dec-2023 19:08:56 Asia/Jakarta] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/header.php on line 0
+[06-Dec-2023 16:30:18 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/dhax8725/public_html/SIDOKAR/sidokar/application/maintenance/maintenance_upgrade.php on line 0
+[06-Dec-2023 16:30:18 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/header.php on line 0
+[06-Dec-2023 16:30:18 Asia/Jakarta] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/header.php on line 0
+[06-Dec-2023 16:30:18 Asia/Jakarta] PHP Notice:  Undefined variable: public in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/left-sidebar.php on line 0
+[06-Dec-2023 16:30:18 Asia/Jakarta] PHP Notice:  Undefined variable: menu in /home/dhax8725/public_html/SIDOKAR/sidokar/lib/inc/common_functions.php on line 0
+[06-Dec-2023 16:30:20 Asia/Jakarta] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/header.php on line 0
+[14-Dec-2023 10:29:32 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/dhax8725/public_html/SIDOKAR/sidokar/application/maintenance/maintenance_upgrade.php on line 0
+[14-Dec-2023 10:29:32 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/header.php on line 0
+[14-Dec-2023 10:29:32 Asia/Jakarta] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/header.php on line 0
+[14-Dec-2023 10:29:32 Asia/Jakarta] PHP Notice:  Undefined variable: public in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/left-sidebar.php on line 0
+[14-Dec-2023 10:29:32 Asia/Jakarta] PHP Notice:  Undefined variable: menu in /home/dhax8725/public_html/SIDOKAR/sidokar/lib/inc/common_functions.php on line 0
+[14-Dec-2023 10:29:34 Asia/Jakarta] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/header.php on line 0
+[14-Dec-2023 10:30:08 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/dhax8725/public_html/SIDOKAR/sidokar/application/maintenance/maintenance_upgrade.php on line 0
+[14-Dec-2023 10:30:08 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/header.php on line 0
+[14-Dec-2023 10:30:08 Asia/Jakarta] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/header.php on line 0
+[14-Dec-2023 10:30:08 Asia/Jakarta] PHP Notice:  Undefined variable: public in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/left-sidebar.php on line 0
+[14-Dec-2023 10:30:08 Asia/Jakarta] PHP Notice:  Undefined variable: menu in /home/dhax8725/public_html/SIDOKAR/sidokar/lib/inc/common_functions.php on line 0
+[14-Dec-2023 10:30:10 Asia/Jakarta] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/header.php on line 0
+[14-Dec-2023 10:30:11 Asia/Jakarta] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/header.php on line 0
+[14-Dec-2023 10:30:14 Asia/Jakarta] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/dhax8725/public_html/SIDOKAR/sidokar/application/includes/header.php on line 0
